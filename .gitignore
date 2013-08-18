@@ -1,0 +1,23 @@
+# OSX junk
+
+[Tt]humbs.db
+*.DS_Store
+*.swp
+*.out
+*.bak*
+
+# XCode junk
+
+*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+*.log
+xcuserdata
+
+# Project files
+
+[Bb]uild/
+
+# Version control files
+
+.svn
+*.orig
