@@ -1,1 +1,0 @@
-_Each member put their work log into the folder corresponding to their name_
