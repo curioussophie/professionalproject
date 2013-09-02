@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SWRevealViewController.h"
+#import <Parse/Parse.h>
+#import "PhoToCollectionViewController.h"
+#import "TourCollectionViewController.h"
 
-@interface SideBarViewController : UIViewController
+@interface SideBarViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
+
+- (IBAction)logOutPressed:(id)sender;
 
 @end

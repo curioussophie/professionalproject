@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SideBarItem</key>
+	<array>
+		<string>We Were Here</string>
+		<string>Tour Collection</string>
+		<string>Photo Collection</string>
+		<string>Create A Tour</string>
+		<string>My Tour</string>
+		<string>My Photo</string>
+		<string>Log Out</string>
+	</array>
+</dict>
+</plist>

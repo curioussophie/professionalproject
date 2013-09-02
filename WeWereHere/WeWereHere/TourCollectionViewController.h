@@ -1,16 +1,14 @@
 //
-//  MainViewController.h
+//  TourCollectionViewController.h
 //  WeWereHere
 //
-//  Created by Thanh Dung TRUONG on 27/08/13.
+//  Created by Thanh Dung TRUONG on 30/08/13.
 //  Copyright (c) 2013 Professional Project. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-
-@interface MainViewController : UIViewController
+#import "SWRevealViewController.h"
+@interface TourCollectionViewController : UITableViewController
 @property (weak, nonatomic) IBOutlet UIBarButtonItem *sideBarBtn;
-
-
 
 @end
