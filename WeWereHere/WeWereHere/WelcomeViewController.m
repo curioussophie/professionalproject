@@ -28,10 +28,7 @@
     [super viewDidLoad];
    // Do any additional setup after loading the view.
    
-   //[Comment createCommentDB];
-   [Comment showCommentForAllUserDB];
-   //[Photo createPhoto];
-
+   
    PFUser *currentUser = [PFUser currentUser];
    if (currentUser) {
       // do stuff with the user

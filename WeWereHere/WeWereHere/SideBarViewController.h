@@ -9,8 +9,8 @@
 #import <UIKit/UIKit.h>
 #import "SWRevealViewController.h"
 #import <Parse/Parse.h>
-#import "PhoToCollectionViewController.h"
-#import "TourCollectionViewController.h"
+#import "PhoToExplorerViewController.h"
+#import "TourExplorerViewController.h"
 
 @interface SideBarViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
 

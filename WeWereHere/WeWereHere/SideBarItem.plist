@@ -5,9 +5,8 @@
 	<key>SideBarItem</key>
 	<array>
 		<string>We Were Here</string>
-		<string>Tour Collection</string>
-		<string>Photo Collection</string>
-		<string>Create A Tour</string>
+		<string>Tour Explorer</string>
+		<string>Photo Explorer</string>
 		<string>My Tour</string>
 		<string>My Photo</string>
 		<string>Log Out</string>

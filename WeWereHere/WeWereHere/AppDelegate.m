@@ -14,6 +14,9 @@
 {
     // Override point for customization after application launch.
    
+   // Integrate Google Map SDK for iOS
+   [GMSServices provideAPIKey:@"AIzaSyDV0JIwvbz4znfmo1qDYBN93x9bDM2_EW4"];
+   
    // Integrate Parse API
    [Parse setApplicationId:@"FVVBxTuIvcHH6KHnkXN9Ha1jyuaZPixeDon3QAAq"
                  clientKey:@"hMFSUcknoYPcBkSYK88rB4ZxW7kYmpPwT3WbO4O0"];
